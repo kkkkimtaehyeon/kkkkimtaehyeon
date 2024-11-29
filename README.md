@@ -1,4 +1,4 @@
-## Hi there 👋
+## 구경하고 가세요👋
 
 <!--
 **kkkkimtaehyeon/kkkkimtaehyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
